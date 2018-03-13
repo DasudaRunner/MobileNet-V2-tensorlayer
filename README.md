@@ -1,4 +1,4 @@
-# MobileNet-V2-Tensorlayer
+# MobileNet_V2-Tensorlayer
 ## Tensorlayer for MobileNet-V2
  `HighLayer.py:` based on tensorlayer.ike tl.layers. Conv2dLayer + tl.layers.BatchNormLayer = hl.conv2d,etc.<br>
  `DiyLayer.py:`in bottleneck moudle,we will need add op.<br>
